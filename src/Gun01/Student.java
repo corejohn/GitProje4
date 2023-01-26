@@ -9,6 +9,8 @@ public class Student {
 
         System.out.println("tekrar merhaba");
 
+        System.out.println("artık kodlamaya başlayalım");
+
 
     }
 
